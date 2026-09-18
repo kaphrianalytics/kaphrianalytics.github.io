@@ -16,7 +16,7 @@ Free hosting option:
 4. Later, connect a custom domain when ready.
 
 Important before publishing:
-- Contact email is currently set to ktrader.contact@gmail.com. Replace it later when you create a KaPhRi Analytics business email.
+- Contact email is currently set to kaphrianalytics@gmail.com. Replace it later when you create a KaPhRi Analytics business email.
 - The embedded Power BI report is public. Only use Publish to web for sample/non-confidential data.
 - Project 01 can be duplicated as a template when new portfolio projects are added.
 
